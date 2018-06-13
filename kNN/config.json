@@ -1,0 +1,10 @@
+{
+    "trainingDataSource":"all.shuttle.trn",
+    "targetDataSource":"shuttle.tst",
+    "seprator":" ",
+    "cols":10,
+    "col_of_features":[0,8],
+    "col_of_class_lable":9,
+    "hamming_dist":false,
+    "k":123
+}
